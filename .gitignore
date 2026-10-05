@@ -13,3 +13,5 @@ build/
 轨迹/
 录屏/
 视频/
+exitmail.db
+src/main/resources/META-INF/resources/
